@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "ano": 2001,
+    "genero": "Fantasia, Aventura"
+  },
+  {
+    "id": 2,
+    "titulo": "O Poderoso Chefão",
+    "ano": 1972,
+    "genero": "Crime, Drama"
+  },
+  {
+    "id": 3,
+    "titulo": "Forrest Gump: O Contador de Histórias",
+    "ano": 1994,
+    "genero": "Drama, Romance"
+  },
+  {
+    "id": 4,
+    "titulo": "O Senhor dos Anéis: As Duas Torres",
+    "ano": 2002,
+    "genero": "Fantasia, Aventura"
+  },
+  {
+    "id": 5,
+    "titulo": "O Poderoso Chefinho",
+    "ano": 2017,
+    "genero": "Infantil,Comédia "
+  },
+  {
+    "id": 6,
+    "titulo": "Koe no Katashi",
+    "ano": 2016,
+    "genero": "Drama, Romance"
+  },
+  {
+    "id": 7,
+    "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+    "ano": 2003,
+    "genero": "Fantasia, Aventura"
+  },
+  {
+    "id": 8,
+    "titulo": "O Poderoso Chefão 2",
+    "ano": 1974,
+    "genero": "Crime, Drama"
+  },
+  {
+    "id": 9,
+    "titulo": "Naruto The Last: O Filme",
+    "ano": 2014,
+    "genero": "Ação, Romance"
+  },
+  {
+    "id": 10,
+    "titulo": "Dragon Ball Z:A Batalha dos Deuses",
+    "ano": 2013,
+    "genero": "Ação, Fantasia"
+  }
+]
